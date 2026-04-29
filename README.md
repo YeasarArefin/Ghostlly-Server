@@ -98,12 +98,6 @@ The application uses Socket.IO for real-time communication, not a traditional RE
 *   **Disconnection:**
     *   `disconnect`: Fired when a client disconnects.
 
-## Screenshots / Demo
-
-![MoneyChat Screenshot 1](https://via.placeholder.com/800x450.png?text=MoneyChat+Login+Screen)
-*Caption: Login screen where users can join a room.*
-
-![MoneyChat Screenshot 2](https://via.placeholder.com/800x450.png?text=MoneyChat+Chat+Interface)
 *Caption: The main chat interface.*
 
 ## Contact / Support
