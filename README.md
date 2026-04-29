@@ -1,4 +1,4 @@
-# MoneyChat
+# Ghostlly Server
 
 MoneyChat is a real-time chat application designed for instant communication. It allows users to join chat rooms, send messages, share files, and see typing indicators.
 
